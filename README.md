@@ -25,7 +25,7 @@ I'm a passionate **Data Engineer & Analyst** with a background in **Business Inf
 ### 📫 How to reach me:
 - 📧 Gmail: camilajavieramn@gmail.com
 - 📧 Hotmail: cjmunozn@hotmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/camilajaviera/)  
+- 💼 LinkedIn: [@camilajmn](https://www.linkedin.com/in/camilajmn/)  
 - 🐙 GitHub: [@CamilaJaviera91](https://github.com/CamilaJaviera91)
 
 ### 😄 Pronouns:
