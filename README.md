@@ -25,8 +25,6 @@ I'm a passionate **Data Engineer & Analyst** with a background in **Business Inf
 ### 📫 How to reach me:
 - 📧 Gmail: camilajavieramn@gmail.com
 - 📧 Hotmail: cjmunozn@hotmail.com
-- 💼 LinkedIn: [@camilajmn](https://www.linkedin.com/in/camilajmn/)  
-- 🐙 GitHub: [@CamilaJaviera91](https://github.com/CamilaJaviera91)
 
 ### 😄 Pronouns:
 She/Her
@@ -36,4 +34,23 @@ I share my workspace with four amazing cats 🐾 — Shiva, Cali, Roma & Panteri
 
 ---
 
-> “Data is a tool for enhancing intuition.” – Hilary Mason  
+> “Data is a tool for enhancing intuition.” – Hilary Mason
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/camilajaviera__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/camilajmn/) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=CamilaJaviera91&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=CamilaJaviera91&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaJaviera91&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=CamilaJaviera91&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=CamilaJaviera91&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
