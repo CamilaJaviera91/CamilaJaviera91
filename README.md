@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Camila Javiera Muñoz Navarro (@CamilaJaviera91)
+# 💫 About Me:
 
 I'm a passionate **Data Engineer & Analyst** with a background in **Business Informatics Engineering**. I love turning data into meaningful insights and building efficient data pipelines to power data-driven decisions 🚀
 
