@@ -43,10 +43,10 @@ I share my workspace with four amazing cats 🐾 — Shiva, Cali, Roma & Panteri
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white) 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CamilaJaviera91&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&timestamp=202505041200) <br>
-![](https://nirzak-streak-stats.vercel.app/?user=CamilaJaviera91&theme=transparent&hide_border=false&timestamp=202505041200) <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaJaviera91&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact&timestamp=202505041200)
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=CamilaJaviera91&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&timestamp=202505041200)  
+![](https://nirzak-streak-stats.vercel.app/?user=CamilaJaviera91&theme=transparent&hide_border=false&timestamp=202505041200)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaJaviera91&theme=transparent&hide_border=false&layout=compact&timestamp=202505041200)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CamilaJaviera91&theme=transparent&no-frame=false&no-bg=true&margin-w=4&timestamp=202505041200)
