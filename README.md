@@ -59,14 +59,14 @@ I share my workspace with four amazing cats 🐾 — Shiva, Cali, Roma & Panteri
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=CamilaJaviera91&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=CamilaJaviera91&theme=transparent&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaJaviera91&theme=transparent&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=CamilaJaviera91&locale=es&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=CamilaJaviera91&locale=es&theme=transparent&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaJaviera91&locale=es&theme=transparent&hide_border=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CamilaJaviera91&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=CamilaJaviera91&locale=es&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
