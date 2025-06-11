@@ -3,6 +3,11 @@
 I'm a passionate **Data Engineer & Analyst** with a background in **Business Informatics Engineering**. I love turning data into meaningful insights and building efficient data pipelines to power data-driven decisions 🚀
 
 ---
+
+### 😄 Pronouns:
+She/Her
+
+---
  
 ### 👀 I’m interested in:
 - Data engineering, analytics & automation
@@ -34,11 +39,6 @@ I'm a passionate **Data Engineer & Analyst** with a background in **Business Inf
 [![Hotmail](https://img.shields.io/badge/H_hotmail-357EC7)](mailto:cjmunozn@hotmail.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:camilajavieramn@gmail.com)
 
-
----
-
-### 😄 Pronouns:
-She/Her
 
 ---
 
