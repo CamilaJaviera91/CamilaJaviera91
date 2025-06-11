@@ -30,7 +30,7 @@ I'm a passionate **Data Engineer & Analyst** with a background in **Business Inf
 
 ### 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camilajmn/)
+[![LinkedIn](https://img.shields.io/badge/in_LinkedIn-0072B1)](https://www.linkedin.com/in/camilajmn/)
 [![Hotmail](https://img.shields.io/badge/H_hotmail-357EC7)](mailto:cjmunozn@hotmail.com)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:camilajavieramn@gmail.com)
 
