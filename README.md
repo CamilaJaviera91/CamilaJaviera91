@@ -77,6 +77,7 @@ I share my workspace with four amazing cats 🐾 — Shiva, Cali, Roma & Panteri
 ---
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=CamilaJaviera91&locale=es&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
 
 ---
