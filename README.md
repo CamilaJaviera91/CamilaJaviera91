@@ -47,6 +47,7 @@ She/Her
 ---
 
 ### ⚡ Fun fact
+
 I share my workspace with four amazing cats 🐾 — Shiva, Cali, Roma & Panterito. And two wonderful dogs 🐾 — Lobo and Lola. Each with their own personality (and sometimes opinions about my code 😸)
 
 ---
