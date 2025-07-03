@@ -5,6 +5,7 @@ I'm a passionate **Data Engineer & Analyst** with a background in **Business Inf
 ---
 
 ### 😄 Pronouns
+
 She/Her
 
 ---
