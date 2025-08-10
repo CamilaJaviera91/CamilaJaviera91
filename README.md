@@ -29,7 +29,7 @@ She/Her
 
 ---
 
-### 💞️ I’m looking to collaborate on
+### 💞️ I’m looking to collaborate on:
 
 - Open-source projects involving **data processing or automation**
 - Initiatives related to **GCP & modern data stacks**
