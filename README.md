@@ -37,7 +37,7 @@ She/Her
 
 ---
 
-### 📫 Contact Me
+### 📫 Contact Me:
 
 [![LinkedIn](https://img.shields.io/badge/in_LinkedIn-0072B1)](https://www.linkedin.com/in/camilajmn/)
 [![Hotmail](https://img.shields.io/badge/H_hotmail-357EC7)](mailto:cjmunozn@hotmail.com)
