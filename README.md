@@ -10,7 +10,7 @@ She/Her
 
 ---
  
-### 👀 I’m interested in
+### 👀 I’m interested in:
 
 - Data engineering, analytics & automation
 - Cloud technologies (specially **GCP**)
