@@ -68,7 +68,7 @@ I share my workspace with four amazing cats 🐾 — Shiva, Cali, Roma & Panteri
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=CamilaJaviera91&locale=en&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)  
 ![](https://nirzak-streak-stats.vercel.app/?user=CamilaJaviera91&locale=en&theme=transparent&hide_border=false&cache_seconds=0)  
