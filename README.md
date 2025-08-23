@@ -52,7 +52,7 @@ I share my workspace with four amazing cats 🐾 — Shiva, Cali, Roma & Panteri
 
 ---
 
-> “Data is a tool for enhancing intuition... ” – Hilary Mason
+> “Data is a tool for enhancing intuition...” – Hilary Mason
 
 ---
 
