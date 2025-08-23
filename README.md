@@ -24,8 +24,8 @@ She/Her
 
 - Advanced **BigQuery** & **dbt**. 
 - **Airflow** and orchestration best practicas. 
-- **CI/CD pipelines** with GitLab
-- Data modeling & architecture in the cloud
+- **CI/CD pipelines** with GitLab. 
+- Data modeling & architecture in the Cloud. 
 
 ---
 
