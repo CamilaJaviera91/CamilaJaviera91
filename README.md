@@ -12,8 +12,8 @@ She/Her
  
 ### 👀 I’m interested in:
 
-- Data engineering, analytics & automation
-- Cloud technologies (specially **GCP**)
+- Data engineering, analytics & automation. 
+- Cloud technologies (specially **GCP**). 
 - Building scalable data pipelines
 - Visualizing data through tools like **Power BI** & **Looker Studio**
 - SQL optimization and Python scripting. 
