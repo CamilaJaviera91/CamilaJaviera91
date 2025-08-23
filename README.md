@@ -16,7 +16,7 @@ She/Her
 - Cloud technologies (specially **GCP**)
 - Building scalable data pipelines
 - Visualizing data through tools like **Power BI** & **Looker Studio**
-- SQL optimization and Python scripting
+- SQL optimization and Python scripting. 
 
 ---
 
