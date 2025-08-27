@@ -69,7 +69,8 @@ I share my workspace with four amazing cats — Shiva, Cali, Roma & Panterito �
 
 #### ☁️ Cloud
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![Apache Beam](https://img.shields.io/badge/Apache%20Beam-FC4C02?logo=apachebeam&logoColor=white) ![Google Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-4285F4?logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) 
+![Apache Beam](https://img.shields.io/badge/Apache%20Beam-FC4C02?logo=apachebeam&logoColor=white) ![Google Cloud Functions](https://img.shields.io/badge/Cloud%20Functions-4285F4?logo=googlecloud&logoColor=white)
 
 #### 👀 Visualization
 
