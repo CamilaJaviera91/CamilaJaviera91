@@ -3,10 +3,6 @@
 I'm a passionate **Data Engineer & Analyst** with a background in **Business Informatics Engineering**. I love transforming raw data into meaningful insights and designing efficient pipelines that drive data-informed decisions.
 
 ---
-
-### 😄 Pronouns: She/Her
-
----
  
 ### 👀 I’m interested in:
 
@@ -29,9 +25,9 @@ I'm a passionate **Data Engineer & Analyst** with a background in **Business Inf
 
 ### 💞️ I’m looking to collaborate on:
 
-- Open-source projects involving **data processing or automation**
-- Initiatives related to **GCP & modern data stacks**
-- Anything that helps me grow and contribute as a data professional
+- Open-source projects involving **data processing or automation**.
+- Initiatives related to **GCP & modern data stacks**.
+- Any project that helps me grow while contributing value as a data professional.
 
 ---
 
