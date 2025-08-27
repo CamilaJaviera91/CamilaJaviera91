@@ -28,6 +28,7 @@ I'm a passionate **Data Engineer & Analyst** with a background in **Business Inf
 - Open-source projects involving **data processing or automation**.
 - Initiatives related to **GCP & modern data stacks**.
 - Any project that helps me grow while contributing value as a data professional.
+- Let’s connect and build something amazing with data!
 
 ---
 
