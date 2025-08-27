@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm a passionate **Data Engineer & Analyst** with a background in **Business Informatics Engineering**. I love turning data into meaningful insights and building efficient data pipelines to power data-driven decisions. 
+I'm a passionate **Data Engineer & Analyst** with a background in **Business Informatics Engineering**. I love transforming raw data into meaningful insights and designing efficient pipelines that drive data-informed decisions.
 
 ---
 
