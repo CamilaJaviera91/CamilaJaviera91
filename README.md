@@ -23,7 +23,7 @@ She/Her
 ### 🌱 I’m currently learning:
 
 - Advanced **BigQuery** & **dbt**. 
-- **Airflow** and orchestration best practicas. 
+- **Airflow** and orchestration best practices. 
 - **CI/CD pipelines** with GitLab. 
 - Data modeling & architecture in the Cloud. 
 
