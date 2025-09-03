@@ -19,7 +19,7 @@ I'm a passionate **Data Engineer & Analyst** with a background in **Business Inf
 - Advanced **BigQuery** & **dbt**. 
 - **Airflow** and orchestration best practices. 
 - **CI/CD pipelines** with GitLab. 
-- Data modeling & architecture in the Cloud. 
+- Data modeling & architecture in the Cloud.
 
 ---
 
