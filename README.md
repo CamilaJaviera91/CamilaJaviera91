@@ -17,7 +17,7 @@ I'm a passionate **Data Engineer & Analyst** with a background in **Business Inf
 ### 🌱 I’m currently learning:
 
 - Advanced **BigQuery** & **dbt**. 
-- **Airflow** and orchestration best practices. 
+- **Airflow** and orchestration best practices.
 - **CI/CD pipelines** with GitLab. 
 - Data modeling & architecture in the Cloud.
 
