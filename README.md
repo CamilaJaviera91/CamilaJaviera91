@@ -94,7 +94,7 @@ I share my workspace with four amazing cats â€” Shiva, Cali, Roma & Panterito â€
 
 <br>
 
-![](https://nirzak-streak-stats.vercel.app/?user=CamilaJaviera91&locale=en&theme=transparent&hide_border=false&cache_seconds=1) 
+![](https://nirzak-streak-stats.vercel.app/?user=CamilaJaviera91&locale=en&theme=transparent&hide_border=false&cache_seconds=2) 
 
 <br>
 
