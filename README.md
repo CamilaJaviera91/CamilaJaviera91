@@ -1,4 +1,4 @@
-# 💫 About Me:
+9# 💫 About Me:
 
 I'm a passionate **Data Engineer & Analyst** with a background in **Business Informatics Engineering**. I love transforming raw data into meaningful insights and designing efficient pipelines that drive data-informed decisions.
 
@@ -98,6 +98,6 @@ I share my workspace with four amazing cats — Shiva, Cali, Roma & Panterito �
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaJaviera91&locale=en&theme=transparent&hide_border=false&layout=compact&cache_seconds=0) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaJaviera91&locale=en&theme=transparent&hide_border=false&layout=compact&cache_seconds=1) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
