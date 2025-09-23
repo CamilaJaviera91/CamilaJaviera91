@@ -29,7 +29,7 @@ I love transforming raw data into meaningful insights and designing efficient pi
 - Open-source projects involving **data processing or automation**.
 - Initiatives related to **GCP & modern data stacks**.
 - Any project that helps me grow while contributing value as a data professional.
-- Let’s connect and build something amazing with data! ! ✌🏻
+- Let’s connect and build something amazing with data!! ✌🏻
 
 ---
 
