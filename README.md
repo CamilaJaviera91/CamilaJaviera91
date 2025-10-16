@@ -8,7 +8,6 @@ I love **transforming** raw **data** into meaningful insights and designing effi
 
 ---
 
- 
 ### 👀 I’m interested in:
 
 - Data engineering, analytics & automation. 
