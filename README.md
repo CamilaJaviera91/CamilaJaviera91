@@ -44,7 +44,6 @@ I love **transforming** raw **data** into meaningful insights and designing effi
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:camilajavieramn@gmail.com)
 
-
 ---
 
 ### ⚡ Fun fact:
