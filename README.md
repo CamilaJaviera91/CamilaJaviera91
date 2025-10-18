@@ -106,6 +106,6 @@ I share my workspace with four amazing cats â€” Shiva, Cali, Roma & Panterito â€
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaJaviera91&locale=en&theme=transparent&hide_border=false&layout=compact&cache_seconds=2) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaJaviera91&locale=en&theme=transparent&hide_border=false&layout=compact&cache_seconds=0) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
