@@ -95,14 +95,14 @@ I share my workspace with four amazing cats — Shiva, Cali, Roma and Panterito 
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=CamilaJaviera91&locale=en&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=5)
+![](https://github-readme-stats.vercel.app/api?username=CamilaJaviera91&locale=en&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=6)
 
 <br>
 
-![](https://nirzak-streak-stats.vercel.app/?user=CamilaJaviera91&locale=en&theme=transparent&hide_border=false&cache_seconds=5)
+![](https://nirzak-streak-stats.vercel.app/?user=CamilaJaviera91&locale=en&theme=transparent&hide_border=false&cache_seconds=6)
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaJaviera91&locale=en&theme=transparent&hide_border=false&layout=compact&cache_seconds=5)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaJaviera91&locale=en&theme=transparent&hide_border=false&layout=compact&cache_seconds=6)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
