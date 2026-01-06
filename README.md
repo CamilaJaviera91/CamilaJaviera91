@@ -1,4 +1,4 @@
-# 💫 About Me:
+9# 💫 About Me:
 
 I'm a passionate **Data Engineer & Analyst** with a background in **Business Informatics Engineering**.
 
@@ -99,7 +99,7 @@ I share my workspace with four amazing cats — Shiva, Cali, Roma and Panterito 
 
 <br>
 
-![](https://nirzak-streak-stats.vercel.app/?user=CamilaJaviera91&locale=en&theme=transparent&hide_border=false&cache_seconds=14)
+![](https://nirzak-streak-stats.vercel.app/?user=CamilaJaviera91&locale=en&theme=transparent&hide_border=false&cache_seconds=15)
 
 <br>
 
