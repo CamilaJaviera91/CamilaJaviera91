@@ -67,7 +67,7 @@ I share my workspace with four amazing cats — Shiva, Cali, Roma and Panterito 
 
 # 💻 Tech Stack:
 
-#### </> Programming Languages
+#### Programming Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
 
@@ -99,7 +99,7 @@ I share my workspace with four amazing cats — Shiva, Cali, Roma and Panterito 
 
 <br>
 
-![](https://nirzak-streak-stats.vercel.app/?user=CamilaJaviera91&locale=en&theme=transparent&hide_border=false&cache_seconds=15)
+![](https://nirzak-streak-stats.vercel.app/?user=CamilaJaviera91&locale=en&theme=transparent&hide_border=false&cache_seconds=15) 
 
 <br>
 
