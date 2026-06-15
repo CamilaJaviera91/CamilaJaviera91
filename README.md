@@ -2,7 +2,7 @@
 
 I'm a passionate **Data Engineer & Analyst** with a background in **Business Informatics Engineering**.
 
-I love **transforming** raw **data** into meaningful insights and designing efficient pipelines that drive data-informed decisions.
+I love **transforming data** into meaningful insights and designing efficient pipelines that drive data-informed decisions.
 
 ---
 
