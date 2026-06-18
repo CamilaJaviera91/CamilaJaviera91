@@ -65,7 +65,7 @@ I share my workspace with four amazing cats — Shiva, Cali, Roma and Panterito 
 
 ---
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 #### Programming Languages
 
