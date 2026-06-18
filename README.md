@@ -44,7 +44,7 @@ I love **transforming data** into meaningful insights and designing efficient pi
 
 ---
 
-### ⚡ Fun fact:
+### Fun fact:
 
 I share my workspace with four amazing cats — Shiva, Cali, Roma and Panterito — and two wonderful dogs — Lobo and Lola. Each has their own personality (and sometimes opinions about my code 😸🐶).
 
