@@ -25,7 +25,7 @@ I love **transforming data** into meaningful insights and designing efficient pi
 
 ---
 
-### 💞️ I’m looking to collaborate on:
+### I’m looking to collaborate on:
 
 - Open-source projects involving **data processing or automation**.
 - Initiatives related to **GCP** and "modern data stacks**.
