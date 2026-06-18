@@ -6,7 +6,7 @@ I love **transforming data** into meaningful insights and designing efficient pi
 
 ---
 
-### 👀 I’m interested in:
+### I’m interested in:
 
 - Data engineering, analytics & automation. 
 - Cloud technologies (specially **GCP**). 
