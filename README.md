@@ -16,7 +16,7 @@ I love **transforming data** into meaningful insights and designing efficient pi
 
 ---
 
-### 🌱 I’m currently learning:
+### I’m currently learning:
 
 - Advanced **BigQuery** & **dbt**. 
 - **Airflow** and orchestration best practices.
