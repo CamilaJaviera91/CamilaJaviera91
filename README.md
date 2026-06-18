@@ -54,7 +54,7 @@ I share my workspace with four amazing cats — Shiva, Cali, Roma and Panterito 
 
 ---
 
-## 🌐 Socials:
+## Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/camilajaviera__/) 
 
