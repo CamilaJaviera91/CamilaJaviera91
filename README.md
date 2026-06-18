@@ -34,7 +34,7 @@ I love **transforming data** into meaningful insights and designing efficient pi
 
 ---
 
-### 📫 Contact Me:
+### Contact Me:
 
 [![LinkedIn](https://img.shields.io/badge/in_LinkedIn-0072B1)](https://www.linkedin.com/in/camilajmn/)
 
