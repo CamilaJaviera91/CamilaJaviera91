@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 
 I'm a passionate **Data Engineer & Analyst** with a background in **Business Informatics Engineering**.
 
